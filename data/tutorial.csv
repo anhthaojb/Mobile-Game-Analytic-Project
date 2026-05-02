@@ -1,0 +1,6 @@
+event_name,event_date,user_pseudo_id,mobile_brand_name,mobile_model_name,operating_system_version,vendor_id,advertising_id,country,city,app_version,platform,event_value_in_usd,online_time,max_level,step_id,step_name,ga_session_id,ga_session_number
+tutorial,8/11/2025,7af3cd38d3007bb65826afd6ba52b19e,Samsung,SM-A346B,Android 14,,25d88cfc-a4f3-48e6-8723-0f81ffab670c,Poland,Poznan,3/1/2001,ANDROID,,109,196,3,GamePlay1196,1754854618,39
+tutorial,8/11/2025,561585bfe8a453c799fd4673633028f4,Samsung,SM-A127F,Android 12,,6caadfc0-9d89-4d9e-a80a-2c1f20157038,Indonesia,Denpasar,3/1/2001,ANDROID,,12288,113,5,GamePlay1113,1754869383,34
+tutorial,8/11/2025,6f40bf26e0fc0bd449a3886cd932b328,Samsung,SM-S901W,Android 14,,86a9a533-287e-4484-b499-9721a2b56c70,Canada,Acton Vale,3/1/2001,ANDROID,,126985,31,3,GamePlay31,1754848280,4
+tutorial,8/11/2025,961d97e89c561d886b72079a48fa1a5d,Xiaomi,23100RN82L,Android 15,,597f2cfe-ddad-4429-b57b-de746cdd72ab,Malawi,Blantyre,3/1/2001,ANDROID,,499905,281,1,GamePlay6281,1754846847,111
+tutorial,8/11/2025,335f0c593c59a219e86454fb69850c83,Realme,RMX3830,Android 14,,b961bae0-3d5c-4869-9418-f72361f4d57b,Egypt,Giza,3/1/2001,ANDROID,,6516,30,2,TutorialSSP,1754865604,9

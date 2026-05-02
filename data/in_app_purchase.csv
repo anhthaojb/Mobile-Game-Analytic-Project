@@ -1,0 +1,6 @@
+event_name,event_date,user_pseudo_id,mobile_brand_name,mobile_model_name,operating_system_version,vendor_id,advertising_id,country,city,app_version,platform,event_value_in_usd,online_time,max_level,product_id,ga_session_id,ga_session_number
+in_app_purchase,7/18/2025,a8239339d93aa0db8fd2e7acf6ce4031,Nokia,1,Android 10,,00dd52e6-d703-4375-ad5b-728afb261e66,France,Rennes,3.1.1,ANDROID,3.823768,250953,270,dchospital.dynamic3gem01,1752822270,73
+in_app_purchase,7/18/2025,b101de4ed72b5629b762ea153e2fe2de,Sony,SO-01L,Android 10,,29633701-0da0-4194-beed-79b5daab725b,Japan,Soja,3.1.1,ANDROID,1.011214,810,5,dchospital.bigsale1offer1,1752794938,1
+in_app_purchase,7/18/2025,f841de8d506955258a8461953af34246,Lville,TPC1013_EEA,Android 13,,9c20611f-1da7-4347-aebc-fddaf41c1093,Germany,Berg,3.1.1,ANDROID,3.823768,611470,401,dchospital.piggy01,1752801656,46
+in_app_purchase,7/18/2025,ed65fef50a114b53b47106b9d84373a3,Google,Pixel 9 Pro,Android 15,,35f7ae64-c159-4557-af9e-3cc8228f175b,United States,,3.1.1,ANDROID,5.99,163090,38,dchospital.coinpack2,1752783239,11
+in_app_purchase,7/18/2025,c41485ac3b925fa84c4e606b4d49d123,Samsung,SM-A155M,Android 14,,ce3e2e67-8930-4861-b077-b44ee147535c,Brazil,Nova Iguacu,3.1.1,ANDROID,1.795193,7012,16,dchospital.bigsale1offer2,1752797066,3

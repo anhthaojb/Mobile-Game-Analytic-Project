@@ -1,0 +1,6 @@
+event_name,event_date,user_pseudo_id,mobile_brand_name,mobile_model_name,operating_system_version,vendor_id,advertising_id,country,city,app_version,platform,event_value_in_usd,online_time,max_level,level,win,ga_session_id,ga_session_number
+Level_End,6/18/2025,a9e8c5531219248dbb3b03dbf64f98b4,OPPO,CPH2349,Android 11,,804184ad-5c75-4bf4-9c55-7dc1b4887329,Vietnam,Bac Giang,3/1/2001,ANDROID,,1110,7,7,1,1750211508,3
+Level_End,6/18/2025,767a5f99a0e62f42b312f0afd57bfdfc,OPPO,CPH2349,Android 11,,804184ad-5c75-4bf4-9c55-7dc1b4887329,Germany,Frankfurt,3/1/2001,ANDROID,,,2,2,1,1750232828,1
+Level_End,6/18/2025,12811a59814a3218e918c73982fab0ab,OPPO,CPH2349,Android 11,,804184ad-5c75-4bf4-9c55-7dc1b4887329,Vietnam,Bac Giang,3/1/2001,ANDROID,,549,2,2,2,1750240454,2
+Level_End,8/1/2025,2d01aedb6e7cde0ea0c94f7d9589da1f,Samsung,SM-S711B,Android 15,,c2be747d-3eaa-4877-90c7-717389637444,Iran,Isfahan,3/1/2001,ANDROID,,8736,41,41,1,1753992164,16
+Level_End,8/1/2025,ba992d58ec5925233639ee3fa78e1de1,OPPO,CPH2001,Android 11,,98e9eb9e-d748-4b04-b2b8-e718c2af0c56,India,Kochi,3/1/2001,ANDROID,,668151,41,41,0,1754025883,535
