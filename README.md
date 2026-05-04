@@ -22,14 +22,14 @@ This project aims to analyze user behavior, revenue performance, and marketing e
 
 **Scale:**
 
-* ~73K users
-* ~2.6M tutorial events
-* ~1.77M level completions
-* ~337K ad impressions
+* \~73K users
+* \~2.6M tutorial events
+* \~1.77M level completions
+* \~337K ad impressions
 
 **Key Challenges:**
 
-* The product demonstrates strong user acquisition, yet fails to translate scale into revenue, with ~73K users generating only ~$1.9K
+* The product demonstrates strong user acquisition, yet fails to translate scale into revenue, with \~73K users generating only \~$1.9K
 * User base is heavily concentrated in low-monetization markets
 * Significant mismatch between user growth and monetization performance
 * Revenue model is highly concentrated, relying on a small segment of high-value users
@@ -110,7 +110,7 @@ A single **event-based analytical table** that serves as the foundation for all 
 
 ![Overview Dashboard](visuals/overview.png)
 
-At first glance, *Hospital Frenzy* appears to have successfully acquired a sizable user base (~73K users). However, a deeper look at daily activity reveals a concerning trend: **DAU declined sharply from 6.9K to 4.7K (~-32%) within a short period**, with an extreme drop to **2.1K on Aug 1, 2025**.
+At first glance, *Hospital Frenzy* appears to have successfully acquired a sizable user base (\~73K users). However, a deeper look at daily activity reveals a concerning trend: **DAU declined sharply from 6.9K to 4.7K (\~-32%) within a short period**, with an extreme drop to **2.1K on Aug 1, 2025**.
 
 This pattern suggests that while user acquisition is effective, **the product struggles to sustain user engagement over time**. The volatility in DAU may indicate inconsistencies in marketing campaigns or potential product/technical disruptions.
 
@@ -124,13 +124,13 @@ The growth is largely **top-heavy and unsustainable**, as newly acquired users f
 
 ![Financial Dashboard](visuals/finance.png)
 
-Despite a relatively large user base, total revenue remains disproportionately low (~$1.9K), indicating weak monetization performance. While revenue is evenly split between Ads (IAA) and In-App Purchases (IAP), neither channel is effectively scaled.
+Despite a relatively large user base, total revenue remains disproportionately low (\~$1.9K), indicating weak monetization performance. While revenue is evenly split between Ads (IAA) and In-App Purchases (IAP), neither channel is effectively scaled.
 
 The core issue becomes evident when examining monetization metrics:
 
-* **Buyer Rate is critically low (~0.1%)**
+* **Buyer Rate is critically low (\~0.1%)**
 * **ARPU is negligible ($0.01–$0.06)**
-* Yet **ARPPU is relatively high (~$13.97)**
+* Yet **ARPPU is relatively high (\~$13.97)**
 
 This indicates that **users who do convert are willing to spend**, but the vast majority never reach that point.
 
@@ -148,15 +148,15 @@ The monetization problem is not about pricing or product value, but rather a **f
 
 The root cause of both engagement and monetization issues becomes clearer when analyzing the user journey.
 
-The **D1 Retention rate is only ~13.65%**, significantly below the industry benchmark (20–40%), indicating that users disengage almost immediately after installation.
+The **D1 Retention rate is only \~13.65%**, significantly below the industry benchmark (20–40%), indicating that users disengage almost immediately after installation.
 
 Further funnel analysis shows that:
 
 * Significant drop-off occurs during the **tutorial and early gameplay stages**
-* Only ~50% of users continue after initial levels
-* Average progression stops at **level ~34**
+* Only \~50% of users continue after initial levels
+* Average progression stops at **level \~34**
 
-Compounding this issue, **average session time is only ~2.16**, limiting opportunities for both ad exposure and purchase triggers.
+Compounding this issue, **average session time is only \~2.16**, limiting opportunities for both ad exposure and purchase triggers.
 
 👉 **So what?**
 
@@ -170,9 +170,9 @@ The product fails at the **earliest stages of the user experience**, causing use
 
 User segmentation reveals a structurally imbalanced revenue model.
 
-A small group of **VIPs and Big Spenders (~10%) contributes the majority of total revenue**, while:
+A small group of **VIPs and Big Spenders (\~10%) contributes the majority of total revenue**, while:
 
-* ~50% of users fall into **At-risk or Churn segments**
+* \~50% of users fall into **At-risk or Churn segments**
 * The remaining majority are **active but non-paying users**, monetized only through ads
 
 Market-level analysis further reinforces this imbalance:
