@@ -144,7 +144,7 @@ The monetization problem is not about pricing or product value, but rather a **f
 
 ### 🔹 Layer 3: Customer Journey & Retention
 
-![Customer Journey Dashboard](visuals/customer journey.png)
+![Customer Journey Dashboard](visuals/customer.png)
 
 The root cause of both engagement and monetization issues becomes clearer when analyzing the user journey.
 
