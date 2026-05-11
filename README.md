@@ -102,7 +102,7 @@ A single **event-based analytical table** that serves as the foundation for all 
 
 ## 📊 4. Business Intelligence Dashboards & Deep Analytics
 
-👉 **[Click here to view Interactive Power BI Dashboard](YOUR_LINK_HERE)**
+👉 **[Click here to view Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2QzNGY1YzUtYTYwMi00ODE0LTgzYjgtMjU2MWRmZjZjMGM2IiwidCI6IjVlOGIzMjY5LTc2Y2EtNDU3Yy04NDdmLTQ0NGUzZGI5ODZhNyIsImMiOjl9)**
 
 ---
 
